@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Online Banking Website Threat Model",
+    "owner": "Michael Reyes",
+    "description": "Assignment of Threat Model for class project"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Threat Model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Michael Reyes"
+  }
+}
